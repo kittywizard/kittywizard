@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+I'm Marleigh (she/her), a frontend developer and designer based in the PNW. 
+
+### Skills
+
+`HTML` • `CSS` • `Sass/SCSS` • `Responsive Design` • `JavaScript` • `React` • `Git` • `Adobe Creative Suite`• `Figma`
+
+### 🌱 I’m currently learning ...
+
+`Typescript`
+
+### 🔭 I’m currently working on ...
+
+An app to aid in cat adoption ala Tinder - [cat-finder](https://github.com/kittywizard/cat-finder)
+
+
 <!--
 **kittywizard/kittywizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
