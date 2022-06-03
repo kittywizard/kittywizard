@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marleigh (she/her), a frontend developer and designer based in the PNW. 
+I'm Marleigh (she/her), a frontend developer and designer based in the PNW. I'm an avid player of roleplaying games, writer and artist!
 
 ### Skills
 
@@ -12,7 +12,7 @@ I'm Marleigh (she/her), a frontend developer and designer based in the PNW.
 
 ### 🔭 I’m currently working on ...
 
-An app to aid in cat adoption ala Tinder - [cat-finder](https://github.com/kittywizard/cat-finder)
+An app to aid in cat adoption - [cat-finder](https://github.com/kittywizard/cat-finder)
 
 
 <!--
