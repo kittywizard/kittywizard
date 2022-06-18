@@ -14,6 +14,8 @@ I'm Marleigh (she/her), a frontend developer and designer based in the PNW. I'm 
 
 An app to aid in cat adoption - [cat-finder](https://github.com/kittywizard/cat-finder)
 
+A Neverwinter Nights module = [The Copper Chicken](https://github.com/kittywizard/nwn-scripting)
+
 
 <!--
 **kittywizard/kittywizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
