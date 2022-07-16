@@ -8,11 +8,9 @@ I'm Marleigh (she/her), a frontend developer and designer based in the PNW. I'm 
 
 ### 🌱 I’m currently learning ...
 
-`Typescript`
+`Typescript` `imba`
 
 ### 🔭 I’m currently working on ...
-
-An app to aid in cat adoption - [cat-finder](https://github.com/kittywizard/cat-finder)
 
 A Neverwinter Nights module - [The Copper Chicken](https://github.com/kittywizard/nwn-scripting)
 
