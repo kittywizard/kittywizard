@@ -12,6 +12,8 @@ I'm Marleigh (she/her), a frontend developer and designer based in the PNW. I'm 
 
 ### 🔭 I’m currently working on ...
 
+[Tip Calculator](http://github.com/kittywizard/tip-calc) - Refactor of an old project into React + Typescript 
+
 A Neverwinter Nights module - [The Copper Chicken](https://github.com/kittywizard/nwn-scripting)
 
 
