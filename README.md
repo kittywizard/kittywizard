@@ -12,7 +12,7 @@ I'm Marleigh (she/her), a frontend developer and designer based in the PNW. I'm 
 
 ### 🔭 I’m currently working on ...
 
-[Tip Calculator](http://github.com/kittywizard/tip-calc) - Refactor of an old project into React + Typescript 
+[Air Quality Measurements](http://github.com/kittywizard/air-quality) - Grabbing and displaying air quality measurements from across the US.
 
 A Neverwinter Nights module - [The Copper Chicken](https://github.com/kittywizard/nwn-scripting)
 
