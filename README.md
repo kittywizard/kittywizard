@@ -12,7 +12,7 @@ I'm Marleigh (she/her), a frontend developer and designer based in the PNW. I'm 
 
 ### 🔭 I’m currently working on ...
 
-[Air Quality Measurements](http://github.com/kittywizard/air-quality) - Grabbing and displaying air quality measurements from across the US.
+[Spellbook](http://github.com/kittywizard/spellbook) - Creating a simple, easy to use app for tracking Tabletop spells and abilities.
 
 A Neverwinter Nights module - [The Copper Chicken](https://github.com/kittywizard/nwn-scripting)
 
