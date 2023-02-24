@@ -12,7 +12,7 @@ I'm Marleigh (she/her), a frontend developer and designer based in the PNW. I'm 
 
 ### 🔭 I’m currently working on ...
 
-[Spellbook](http://github.com/kittywizard/spellbook) - Creating a simple, easy to use app for tracking Tabletop spells and abilities.
+[Runaway Tales](http://github.com/kittywizard/runaway-tales) - Creating a full stack application based off my old [writing prompt generator](http://runaway-tales.netlify.app) where users can not only generate prompts, but save and mark completed ones for personal tracking purposes.
 
 A Neverwinter Nights module - [The Copper Chicken](https://github.com/kittywizard/nwn-scripting)
 
