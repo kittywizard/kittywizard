@@ -14,8 +14,7 @@ I'm Marleigh (she/her), a frontend developer and designer based in the PNW. I'm 
 
 [Runaway Tales](http://github.com/kittywizard/runaway-tales) - Creating a full stack application based off my old [writing prompt generator](http://runaway-tales.netlify.app) where users can not only generate prompts, but save and mark completed ones for personal tracking purposes.
 
-A Neverwinter Nights module - [The Copper Chicken](https://github.com/kittywizard/nwn-scripting)
-
+[Meow Missile](http://github.com/kittywizard/meow-missile) - A basic shooter game in Phaser and Typescript. Play as one of my cats whose goal is to hairball on as much of my carpet and furniture as possible!
 
 <!--
 **kittywizard/kittywizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
